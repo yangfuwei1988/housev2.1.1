@@ -9,15 +9,7 @@
 }
 .box_1 {
 }
-.box_2 {
-}
-.box_3 {
-}
-.ellipse {
-}
-.flow_shape {
-}
-._形状 {
+.shape {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -26,51 +18,59 @@
   text-align:center;
   line-height:normal;
 }
+.box_3 {
+}
+.ellipse {
+}
+.box_2 {
+}
 .image {
 }
 .placeholder {
-  font-size:18px;
-  color:#A1A1A1;
-  text-align:left;
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
 }
-._一级标题 {
+.link_button {
+  color:#169BD5;
+}
+.heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-._二级标题 {
+.heading_2 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
-._三级标题 {
+.heading_3 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
-._四级标题 {
+.heading_4 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
-._五级标题 {
+.heading_5 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
-._六级标题 {
+.heading_6 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
@@ -81,7 +81,16 @@
   font-size:14px;
   text-align:left;
 }
-._文本段落 {
+.connector {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.paragraph {
   text-align:left;
 }
 .line {
@@ -100,19 +109,33 @@
   color:#000000;
   text-align:left;
 }
-.list_box {
-  color:#000000;
+.checkbox {
   text-align:left;
+}
+.snapshot {
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.flow_shape {
+}
+.icon {
+}
+.image1 {
+  color:#000000;
+}
+.shape1 {
 }
 .radio_button {
   text-align:left;
 }
-._流程形状 {
+.box_31 {
+}
+.horizontal_line {
 }
 .html_button {
-  text-align:center;
-}
-.table_cell {
-}
-.icon {
+  color:#000000;
 }
